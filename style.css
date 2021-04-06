@@ -1,0 +1,7 @@
+if (num == 15){
+   console.log('you have the correct number!')
+ } else if (num > 15){
+   console.log('your number is too big')
+ } else{
+    console.log('please choose another number')
+ }
